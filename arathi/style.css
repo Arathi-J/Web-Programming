@@ -1,0 +1,122 @@
+
+.container{
+
+}
+
+
+.container-1{
+    width: 100%;
+    display: flex;
+    background-color: cornsilk;
+    height: 200px;
+}
+
+.content{
+    width: 100%;
+    padding-left: 100px;
+} 
+img{
+    width: 50%;
+    height: 100%;
+}
+.red{
+  color: rgb(223, 19, 19);
+}
+.color{
+  color: rgb(16, 118, 118);
+}
+.text{
+    font-size: 20px;
+}
+
+/*(1) div styling */
+
+
+/* first div */
+.logo{
+    /* background-color: chartreuse;
+    border: 3px solid #cb5e5e; */
+    height: 80%;
+    text-align: center;
+    width: 40%;
+    
+}
+/* second div */
+.credict{
+    /* background-color: chocolate; */
+    padding-bottom: 20px;
+    /* border: 1px solid #511313; */
+    text-align: center;
+    
+}
+.cr-img{
+    
+    width: 45%;
+    height: 75%;
+    
+}
+/* third div */
+.contact{
+    /* background-color: cornsilk; */
+    width: 25%;
+    text-align: right;
+    padding-left: 100px;
+    height: 100%;
+    
+}
+/*(2) div styling */
+.container-2{
+    width: 100%;
+}
+.cover{
+
+    /* justify-content: center; */
+    width: 190vh;
+    height: 80vh;
+    /* padding-left: 50px; */
+    border: 3rem #511313  solid;
+    
+}
+/*(2) div styling */
+.about{
+    width: 60%;
+    height: 300px;
+    margin-left: 200px;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(255, 51, 0);
+    color: aliceblue;
+    font-style: italic;
+    
+}
+
+/*(4) div styling */
+.v-m{
+    display: flex;
+    justify-content: space-between;
+    border: 3px;
+    border-color: rgb(235, 42, 28);
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+.vision{
+    width: 600px;
+    margin-left:100px ;
+    
+    background-color: blanchedalmond;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.mision{
+    width: 600px;
+    margin-right: 100px;
+    margin-left: 30px;
+    background-color: blanchedalmond;
+}
+
+
+
